@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 ### Hi there 👋
-Mi proyecto guay del momento es [esta extensión de Visual Studio Code para Octave](https://github.com/LucasFA/vscode-octave)
+Mi último proyecto guay es [este servidor LSP escrito en Rust ofreciendo diagnóstico en IDEs para Octave](https://github.com/LucasFA/octave-lsp), en la cual empecé a trabajar después de crear [esta otra extensión de Visual Studio Code para ejecutar código de Octave](https://github.com/LucasFA/vscode-octave)
 
 #### ¿Quieres saber qué he hecho de *Ciencia de datos*?
 Tengo todo en https://github.com/LucasFA/DataScience
