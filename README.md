@@ -13,16 +13,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Hi there 👋
+#### Me & my languages
+[![LucasFA's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasFA&theme=transparent&locale=es)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFA&hide=HTML&layout=compact&locale=es&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-### Hi there 👋
-Mi último proyecto guay es [este servidor LSP escrito en Rust ofreciendo diagnóstico en IDEs para Octave](https://github.com/LucasFA/octave-lsp), en la cual empecé a trabajar después de crear [esta otra extensión de Visual Studio Code para ejecutar código de Octave](https://github.com/LucasFA/vscode-octave)
+Mi últimos proyectos son un servidor LSP para ofrecer diagnóstico en IDEs para Octave y esta extensión para ejecutar Octave en VSCode
 
-#### ¿Quieres saber qué he hecho de *Ciencia de datos*?
-Tengo todo en https://github.com/LucasFA/DataScience
-
-#### Otras cosas:
-Algo de Python en Google foobar, esencialmente retos estilo leetcode: https://github.com/LucasFA/Googlefoobar
+<a href="https://github.com/LucasFA/octave-lsp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasFA&repo=octave-lsp&theme=transparent" />
+</a>
+<a href="https://github.com/LucasFA/vscode-octave">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasFA&repo=vscode-octave&theme=transparent" />
+</a>
 
 #### ¿Quieres ver las asignaturas que he cursado y ver si te sirve el código?
-* [Estadística Computacional](https://github.com/LucasFA/EC), usando R.
-* [Métodos Numéricos II](https://github.com/LucasFA/MN), usando Octave.
+<a href="https://github.com/LucasFA/EC">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasFA&repo=EC&theme=transparent" />
+</a>
+<a href="https://github.com/LucasFA/MN">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasFA&repo=MN&theme=transparent" />
+</a>
