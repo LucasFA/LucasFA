@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 -->
 
 ## Hi there 👋
-#### Me & my languages
 [![LucasFA's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasFA&theme=transparent&locale=es)](https://github.com/anuraghazra/github-readme-stats)
 
 Mi últimos proyectos son un servidor LSP para ofrecer diagnóstico en IDEs para Octave y esta extensión para ejecutar Octave en VSCode
